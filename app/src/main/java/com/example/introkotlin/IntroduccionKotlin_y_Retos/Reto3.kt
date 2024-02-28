@@ -1,4 +1,4 @@
-package com.example.introkotlin.Introduccion
+package com.example.introkotlin.IntroduccionKotlin_y_Retos
 import kotlin.math.*
 class Reto3 {
 }
